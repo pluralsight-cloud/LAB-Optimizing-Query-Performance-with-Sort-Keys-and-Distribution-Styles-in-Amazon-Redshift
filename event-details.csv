@@ -1,0 +1,11 @@
+EventName,EventCategory,EventDescription,EventDate,EventStatus
+GoodList,Shopping,List of recommended products or items for the user,2025-01-01,Active
+Videos,Media,Videos streamed or played by the user,2025-01-01,Active
+Live,Live Events,Live streaming or interaction events,2025-01-01,Active
+GoodDetail,Product Detail,Viewing detailed page of a product/item,2025-01-01,Active
+Activity,User Interaction,General user activity such as clicks or views,2025-01-01,Active
+Instructions,Guides,Instructional content or guides for the user,2025-01-01,Active
+AddToCart,Shopping,Items added to the shopping cart,2025-01-01,Active
+Payment,Transaction,User making a payment or transaction,2025-01-01,Active
+PaySuccess,Transaction,Successful completion of a payment,2025-01-01,Active
+Settings,User Settings,User adjustments in settings or preferences,2025-01-01,Active
